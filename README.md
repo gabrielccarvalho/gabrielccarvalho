@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, its good to see you here 👋🏽
+here are some facts and curiosities about me, hope you like it 😁
 
-<!--
-**gabrielccarvalho/gabrielccarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏽‍💼 Who is Gabriel Campos?
+- I am a a technology enthusiast, an IT student in the university of UFRN and a junior software developer at Cantoo. Passionate about <b>Javascript</b> and <b>Open Source</b>.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I believe in fast topics
+  - Will power is <b>better than</b> knoledge.
+  - Quality is <b>better than</b> Quantity
+  - Health body is <b>equal to</b> Health mind
+  - Keep it simple - There is no need to <b>overengeneer</b>.
+  
+## 🏄🏽‍♂️ My hobbies
+  - I like to surf
+  - I often play couple musical instruments
+  - I enjoy coding a lot
+  
+## 💬 Want to talk to me?
+  - I can easily be reached in my <a href="mailto:caampos22@gmail.com">email</a>.
+  
+# 👋🏽 That's all folks!
+### Hope you enjoyed and take care 🔥
