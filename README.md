@@ -8,7 +8,7 @@ here are some facts and curiosities about me, hope you like it 😁
   - Will power is <b>better than</b> knoledge.
   - Quality is <b>better than</b> Quantity
   - Health body is <b>equal to</b> Health mind
-  - Keep it simple - There is no need to <b>overengeneer</b>.
+  - Keep it simple - There is no need to <b>overengineer</b>.
   
 ## 🏄🏽‍♂️ My hobbies
   - I like to surf
