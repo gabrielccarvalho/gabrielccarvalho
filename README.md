@@ -2,7 +2,7 @@
 here are some facts and curiosities about me, hope you like it 😁
 
 ## 👨🏽‍💼 Who is Gabriel Campos?
-- I am a technology enthusiast a software developer @ Cantoo. Passionate about <b>Javascript</b> and <b>Open Source</b>.
+- I am a technology enthusiast and a software developer @ Cantoo. Passionate about <b>Javascript</b> and <b>Open Source</b>.
 
 ## 💡 What I believe in fast topics
   - Will power is <b>better than</b> knoledge.
