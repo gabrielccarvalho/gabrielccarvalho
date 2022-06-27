@@ -1,4 +1,4 @@
-## Hey there! I'm Gabriel, a mid-level React developer @ Boa Vista
+## Hey there! I'm Gabriel, a React developer @ Boa Vista
 
 <div align="center">
   <a href="https://github.com/gabrielccarvalho">
