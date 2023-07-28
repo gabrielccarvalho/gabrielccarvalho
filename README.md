@@ -1,4 +1,4 @@
-## Hey there! I'm Gabriel, a React developer @ Acordo Certo
+## Hey there! I'm Gabriel, a React developer
 
 <div align="center">
   <a href="https://github.com/gabrielccarvalho">
