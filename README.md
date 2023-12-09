@@ -11,6 +11,8 @@
   <p>I love learning new technologies, but here is a list of the few I'm most proficient with!</p>
 </div>
 
+> I recently started my own blog! you can check it out my first post <a href='https://www.gabrielcampos.com.br/blog/hello-world' about='_blank'>here!</a>!
+
 ## Front-End  
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
